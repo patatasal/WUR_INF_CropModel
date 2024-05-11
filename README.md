@@ -7,4 +7,7 @@ For Step 1, you need to download and use the DNDC programme (https://www.dndc.sr
 
 Step 2 and 3 are model trains. you can try to train and adjust the model by yourself based on my script. Do you want to skip the model train and play with the prediction function directly? This is also possible since two trained example models have been provided in this repository. Then you can start directly from Step 5. 
 
-Note that this is a preliminary student project done within four months and the datasets used here are mainly mock data for learning, experimenting and testing. 
+Note that this is a preliminary student project done within four months and the datasets used here are mainly mock data for learning, experimenting and testing. You are welcome to give any feedbacks to my work. 
+
+Yuyan Yang
+May 2024
